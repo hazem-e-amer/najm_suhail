@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1005856368235",
+    "project_id": "najm-suhail-project",
+    "storage_bucket": "najm-suhail-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005856368235:android:70eb297f9b13da22dd332e",
+        "android_client_info": {
+          "package_name": "com.example.najm_suhail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005856368235-5bi25jg4ufh2r6fp4rvvg1u4bnqjpbcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.najm_suhail",
+            "certificate_hash": "78446aca3083fc0524fad22f2308dba1b8895e64"
+          }
+        },
+        {
+          "client_id": "1005856368235-0n20fvgiu6a7gcck13rqonm5q4aa594k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOPklW1klj32n2Sx_cD12CmpzD9OxSMg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005856368235-0n20fvgiu6a7gcck13rqonm5q4aa594k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005856368235-nkfb0uiqlj300fkkr1c1hvvmr5g3i3tg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.najmSuhail"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
