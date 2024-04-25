@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-// import 'package:najm_suhail/application/dashboard/screens/chat_screen.dart';
+import 'package:najm_suhail/application/dashboard/screens/chat_screen.dart';
 
-// import 'package:najm_suhail/application/dashboard/screens/report_accident_screen.dart';
+import 'package:najm_suhail/application/dashboard/screens/report_accident_screen.dart';
 import 'package:najm_suhail/application/dashboard/screens/track_accident_report_screen.dart';
 
 import '../../../utils/functions.dart';
@@ -31,10 +31,10 @@ class _DashboardTabState extends State<DashboardTab> {
                   context: context,
                   data: 'Do you want to report an accident?',
                   onTapYes: () {
-                    /*Navigator.of(context, rootNavigator: true)
+                    Navigator.of(context, rootNavigator: true)
                         .push(MaterialPageRoute(
                       builder: (context) => ReportAccidentScreen(),
-                    ));*/
+                    ));
                   },
                 );
               },
@@ -64,10 +64,10 @@ class _DashboardTabState extends State<DashboardTab> {
                   context: context,
                   data: 'Do you want to start a new chat?',
                   onTapYes: () {
-                    /*Navigator.of(context, rootNavigator: true)
+                    Navigator.of(context, rootNavigator: true)
                         .push(MaterialPageRoute(
                       builder: (context) => ChatScreen(),
-                    ));*/
+                    ));
                   },
                 );
               },
